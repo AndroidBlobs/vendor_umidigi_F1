@@ -1,0 +1,41 @@
+This SW Support Peripherals Lists As Follow :;
+Gsensor Lists :;
+bmi160 (2019-08-02 12:22:38);
+
+Msensor Lists :;
+qmc7983 (2019-08-02 11:31:08);
+
+Gyrsensor Lists :;
+bmi160 (2019-08-02 12:22:38);
+
+ALS/PS Lists :;
+vcnl36832 (2019-08-02 11:31:08);
+
+Lcd Lists :;
+FT8719_W632732IAAB (2019-08-02 12:23:40);
+TC3315_W632752IAA (2019-08-02 12:23:40);
+NT36672_XL6300030T1 (2019-08-02 12:23:40);
+
+TouchPanel Lists :;
+FOCALTECH_TS (2019-08-02 12:23:40);
+PARADE (2019-08-02 12:23:39);
+NT36XXX (2019-08-02 12:23:39);
+
+Carmera Lists :;
+s5k2p7_mipi_raw (2019-08-02 12:23:42);
+gc5035_mipi_raw (2019-08-02 12:23:42);
+s5k4h7yx_mipi_raw (2019-08-02 12:23:42);
+imx376_mipi_raw (2019-08-02 12:23:42);
+imx476_mipi_raw (2019-08-02 12:23:41);
+s5k3p3sx_mipi_raw (2019-08-02 12:23:42);
+imx519_mipi_raw (2019-08-02 12:23:42);
+
+Carmera Version Lists :;
+s5k2p7_mipi_raw@HS_52A7_v00 (2019-08-02 12:24:14); imx376_mipi_raw@YL_GS8857_v00 (2019-08-02 12:24:12); s5k3p3sx_mipi_raw@HS_854F_v00 (2019-08-02 12:23:49); ;
+
+Memory Lists :;
+KMDH6001DM_B422 (2019-08-02-11:30:37);
+SDADA4CR_64G (2019-08-02-11:30:37);
+KMDV6001DM_B620 (2019-08-02-11:30:37);
+MT29VZZZAD9DQKSM (2019-08-02-11:30:37);
+H9HP16ACPMMDAR (2019-08-02-11:30:37);
